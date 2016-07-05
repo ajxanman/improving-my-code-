@@ -1,2 +1,2 @@
-var input=prompt(Please enter the temprature in farenheit.)
+var input=prompt("Please enter the temprature in farenheit.")
 console.log(5/9*(input-32))
